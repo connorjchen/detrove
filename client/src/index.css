@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+body div {
+  box-sizing: border-box;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#root > div:nth-child(2) {
+  flex: 1;
+  margin: 32px;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(22, 22, 26, 0.543);
+  border-radius: 16px;
+}

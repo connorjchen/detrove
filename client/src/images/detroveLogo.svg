@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.6</desc>
+<defs>
+</defs>
+<g transform="matrix(5.2 0 0 5.2 129.02 128.44)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -0.03 0.09)"  >
+<linearGradient id="SVGID_6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="-1" y1="15" x2="30.5" y2="46.5">
+<stop offset="0%" style="stop-color:rgb(56,189,255);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(0,58,192);stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_6); fill-rule: nonzero; opacity: 1;"  transform=" translate(-14.47, -24.59)" d="M 0 37.1229 V 9.54464 C 0 8.71249 0.957081 8.2444 1.61394 8.75529 L 9 14.5 L 13.1696 17.7074 C 13.9264 18.2896 13.5147 19.5 12.5599 19.5 H 9.5 C 8.94771 19.5 8.5 19.9477 8.5 20.5 V 36.2497 C 8.5 37.3616 8.98174 38.4189 9.82075 39.1485 C 13.7988 42.6076 20 39.7821 20 34.5105 V 31.5 V 22.3559 C 20 18.3548 18.1162 14.5871 14.9153 12.1864 L 9.75315 8.31486 C 8.64952 7.48714 8 6.1881 8 4.80856 C 8 1.18901 12.1391 -0.870466 15.0262 1.31252 L 23.9648 8.07098 C 26.8286 10.2362 28.5415 13.595 28.6126 17.1845 L 28.9344 33.4349 C 29.1737 45.5211 15.7503 52.9112 5.6658 46.2452 L 4.48567 45.4651 C 1.68484 43.6137 0 40.4803 0 37.1229 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -0.03 0.09)"  >
+<path style="stroke: rgb(255,255,255); stroke-opacity: 0.52; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-14.47, -24.59)" d="M 8.69303 14.8947 L 8.69514 14.8963 L 12.8647 18.1037 C 13.2432 18.3948 13.0373 19 12.5599 19 H 9.5 C 8.67157 19 8 19.6716 8 20.5 V 36.2497 C 8 37.5063 8.54445 38.7012 9.49266 39.5258 C 13.7943 43.2663 20.5 40.211 20.5 34.5105 V 31.5 V 22.3559 C 20.5 18.1974 18.5421 14.2816 15.2153 11.7864 L 10.0532 7.91486 C 9.07542 7.18157 8.5 6.03072 8.5 4.80856 C 8.5 1.60193 12.1669 -0.222602 14.7247 1.71134 L 23.6633 8.46981 C 26.4048 10.5427 28.0446 13.7581 28.1127 17.1944 L 28.4345 33.4448 C 28.6658 45.1281 15.6899 52.2719 5.94152 45.8281 L 4.76139 45.048 C 2.1006 43.2892 0.5 40.3125 0.5 37.1229 V 9.54464 C 0.5 9.12856 0.978541 8.89452 1.30697 9.14996 L 8.69303 14.8947 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
