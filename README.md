@@ -4,6 +4,8 @@ Built using node version v16 LTS and npm version 8.19.3
 
 Legacy peer deps needed because of MUI incompatible with new version of React
 
+Note: this repo was forked from the original repo https://github.com/Corfish123/Detrove
+
 ## Run Frontend:
 
 - cd client
